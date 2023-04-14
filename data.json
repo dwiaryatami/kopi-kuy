@@ -82,13 +82,7 @@
             "harga": "150.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
         },
-        {
-            "foto": "images/produk/es_kopi_susu_robusta.png",
-            "nama": "Es Kopi Susu Robusta",
-            "size": "150 Gram",
-            "harga": "150.000",
-            "link": "https://shopee.co.id/product/284322507/8732581897"
-        },
+        
         {
             "foto": "images/produk/robusta_java.png",
             "nama": "Kopi Robusta Java",
